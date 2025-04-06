@@ -1,0 +1,3 @@
+﻿  Main.cpp
+glfw3.lib(win32_window.obj) : warning LNK4099: no se encontró PDB '' con 'glfw3.lib(win32_window.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+  YoutubeOpenGL.vcxproj -> C:\Users\kiana\source\repos\3T1-COM\ProgramacionGrafica\backfaceEXPO\BackFaceCulling\x64\Debug\YoutubeOpenGL.exe
