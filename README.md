@@ -18,6 +18,8 @@ The goal is to illustrate how hidden surfaces (faces not visible to the camera) 
 
 Check out the live version here: [https://backfacecullingexamples-fzianpmlf.vercel.app/](https://backfacecullingexamples-fzianpmlf.vercel.app/)
 
+---
+
 
 The OpenGL example is written in C++ and uses **GLFW** and **GLAD**. It is based on a [YouTube tutorial by Victor Gordan](https://youtu.be/BA6aR_5C_BM?si=ObZmexmkkVqcxuPo) which was used as a foundation.  
 We extended this implementation by adding interactive feature, enhancing the clarity of the culling demonstration.
