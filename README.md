@@ -50,7 +50,7 @@ Open the project folder in Visual Studio Code and use the Live Server extension 
 
 #### Deployed on Vercel
 
-[Click here!](https://backfacecullingexamples-fzianpmlf.vercel.app/)
+[Click here!](https://back-face-culling-examples.vercel.app/)
 
 
 ### OpenGL Example
