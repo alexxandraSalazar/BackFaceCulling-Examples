@@ -88,7 +88,7 @@ createFigure("box");
 scene.add(meshGroup);
 
 // Cámara
-camera.position.z = 1;
+camera.position.z = 5;
 
 // Animación
 function animate() {
