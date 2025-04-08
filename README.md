@@ -35,7 +35,7 @@ Go to the project directory
 
 
 ### WebGL Example
-Follow these steps to run the OpenGL example using **Visual Studio Code**:
+Follow these steps to run the WebGL example using **Visual Studio Code**:
 
 
 Go to the example directory
